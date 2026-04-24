@@ -1,6 +1,6 @@
 checks:
     php: true
-coding_style:
+coding_style: 
     php:
         spaces:
             around_operators:
